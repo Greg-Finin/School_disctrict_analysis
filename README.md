@@ -9,5 +9,5 @@ The most obvious change is seen through the replacing of Thomas High School Data
 ![After Cleaning Data](Before1.png)
 ### District Summary
 The change in the Thomas High School Data also launched Thomas High School into the second place for overall passing percentage, asa noted below. 
-![Before Cleaning 2ndData]()
-![Before Cleaning 2nd2Data]()
+![Before Cleaning 2ndData](Before2.png)
+![After Cleaning 2ndData](After2.png)
