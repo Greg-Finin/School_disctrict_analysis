@@ -7,3 +7,7 @@ The project started with us reviewing the data, and we quickly saw that there we
 The most obvious change is seen through the replacing of Thomas High School Data. When we started, the percentages for students passing math, reading, and both math and reading were skewed, due to an error in the data. We were tasked with going in and cleaning that data, so that we could get a more accurate picture. The two images below show the change in the percentages, the top one being before, the bottom one being after. We saw over 10% increases in all aforementioned categories. 
 ![Before Cleaning Data](After1.png)
 ![After Cleaning Data](Before1.png)
+### District Summary
+The change in the Thomas High School Data also launched Thomas High School into the second place for overall passing percentage, asa noted below. 
+![Before Cleaning 2ndData]()
+![Before Cleaning 2nd2Data]()
